@@ -1,0 +1,57 @@
+[
+  {
+    "nama": "tongkat Pramuka",
+    "harga": "Rp. 10.000",
+    "gambar": "tongkat.jpg",
+    "update": "14 Agustus 2023 23:33"
+  },
+  {
+    "nama": "kertas emas",
+    "harga": "Rp. 2.500",
+    "gambar": "emas.jpeg",
+    "update": "14 Agustus 2023 23:40"
+  },
+  {
+    "nama": "tepak pensil",
+    "harga": "Rp. 25.000",
+    "gambar": "tepak.jpeg",
+    "update": "14 Agustus 2023 23:48"
+  },
+  {
+    "nama": "kertas marmer",
+    "harga": "Rp. 2.500",
+    "gambar": "marmer.jpg",
+    "update": "14 Agustus 2023 23:49"
+  },
+
+  {
+    "nama": "kertas kado",
+    "harga": "Rp. 2.000",
+    "gambar": "kado.jpg",
+    "update": "14 Agustus 2023 23:50"
+  },
+  {
+    "nama": "drawing pen",
+    "harga": "Rp. 10.000",
+    "gambar": "drawing-pen.jpeg",
+    "update": "14 Agustus 2023 23:50"
+  },
+  {
+    "nama": "buku halus",
+    "harga": "Rp. 4.000",
+    "gambar": "buku-halus.webp",
+    "update": "14 Agustus 2023 23:51"
+  },
+  {
+    "nama": "buku 38",
+    "harga": "Rp. 3.500",
+    "gambar": "buku-38.jpg",
+    "update": "14 Agustus 2023 23:53"
+  },
+  {
+    "nama": "buku 58",
+    "harga": "Rp. 4.500",
+    "gambar": "buku-58.jpg",
+    "update": "14 Agustus 2023 23:54"
+  }
+]
